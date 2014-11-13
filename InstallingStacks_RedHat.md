@@ -101,5 +101,5 @@ Enter your mysql user name and password. Save & quit.
 
 Where ‘www’ is your web server username. If you don’t know what your username is try the `whoami` command.
 
-Congratulations! You’ve installed stacks!
+*Congratulations! You’ve installed stacks!*
 
